@@ -1,0 +1,32 @@
+[
+    {
+        "product": "Product A",
+        "review": "Very cool",
+        "label": "POSITIVE",
+        "score": 0.9998695850372314
+    },
+    {
+        "product": "Product A",
+        "review": "Not so cool",
+        "label": "NEGATIVE",
+        "score": 0.998572826385498
+    },
+    {
+        "product": "Product B",
+        "review": "Not the worst, but not the best either",
+        "label": "NEGATIVE",
+        "score": 0.9959391355514526
+    },
+    {
+        "product": "Product C",
+        "review": "very bad",
+        "label": "NEGATIVE",
+        "score": 0.9997884631156921
+    },
+    {
+        "product": "Product B",
+        "review": "It is so good",
+        "label": "POSITIVE",
+        "score": 0.9998557567596436
+    }
+]
