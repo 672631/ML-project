@@ -3,7 +3,7 @@ from transformers import pipeline
 import json
 import os
 import matplotlib.pyplot as plt 
-import seaborn as sns 
+ 
 
 #File to store reviews
 REVIEW_FILE = "reviews.json"
