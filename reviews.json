@@ -28,5 +28,11 @@
         "review": "It is so good",
         "label": "POSITIVE",
         "score": 0.9998557567596436
+    },
+    {
+        "product": "Product A",
+        "review": "This product was a dissapointment to me. I had expected much more.",
+        "label": "NEGATIVE",
+        "score": 0.9978110194206238
     }
 ]
