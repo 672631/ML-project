@@ -93,7 +93,7 @@ with col2:
         negative_reviews = sum(1 for r in product_reviews if r['product'] == selected_product and r['label'] == "NEGATIVE")
 
          # Apply a Matplotlib style
-        plt.style.use("ggplot")  # You can try "fivethirtyeight", "seaborn-darkgrid", etc.
+        plt.style.use("ggplot")  
 
         # Create a bar chart
         fig, ax = plt.subplots()
