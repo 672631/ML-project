@@ -34,5 +34,215 @@
         "review": "This product was a dissapointment to me. I had expected much more.",
         "label": "NEGATIVE",
         "score": 0.9978110194206238
+    },
+    {
+        "product": "Product A",
+        "review": "Very nice",
+        "label": "POSITIVE",
+        "score": 0.9998563528060913
+    },
+    {
+        "product": "Product A",
+        "review": "This product exceeded my expectations! The quality is fantastic, and it works perfectly. Highly recommend!",
+        "label": "POSITIVE",
+        "score": 0.9998795986175537
+    },
+    {
+        "product": "Product A",
+        "review": "Very happy with this purchase. It\u2019s exactly what I was looking for and worth every penny!",
+        "label": "POSITIVE",
+        "score": 0.9998781681060791
+    },
+    {
+        "product": "Product A",
+        "review": "Absolutely love this product! It performs really well and is easy to use.",
+        "label": "POSITIVE",
+        "score": 0.9998804330825806
+    },
+    {
+        "product": "Product B",
+        "review": "Amazing! The performance is excellent, and it\u2019s very user-friendly. Would buy again!",
+        "label": "POSITIVE",
+        "score": 0.9998568296432495
+    },
+    {
+        "product": "Product B",
+        "review": "I\u2019m impressed with this item. It\u2019s reliable and has made my life much easier.",
+        "label": "POSITIVE",
+        "score": 0.9998192191123962
+    },
+    {
+        "product": "Product B",
+        "review": "Great value for the money! Works as expected and seems very durable.",
+        "label": "POSITIVE",
+        "score": 0.99982750415802
+    },
+    {
+        "product": "Product B",
+        "review": "This product has been fantastic! It\u2019s sturdy, efficient, and worth every cent.",
+        "label": "POSITIVE",
+        "score": 0.9998877048492432
+    },
+    {
+        "product": "Product C",
+        "review": "I am extremely satisfied. It does exactly what it promises, and I haven\u2019t had any issues.",
+        "label": "POSITIVE",
+        "score": 0.9997665286064148
+    },
+    {
+        "product": "Product C",
+        "review": "Excellent quality. The product is outstanding, and I\u2019d recommend it to anyone.",
+        "label": "POSITIVE",
+        "score": 0.999881386756897
+    },
+    {
+        "product": "Product C",
+        "review": "Very disappointed with this item. It stopped working after a short period.",
+        "label": "NEGATIVE",
+        "score": 0.9997817873954773
+    },
+    {
+        "product": "Product C",
+        "review": "I expected more. It\u2019s not as durable as I hoped and feels cheaply made.",
+        "label": "NEGATIVE",
+        "score": 0.9998196959495544
+    },
+    {
+        "product": "Product C",
+        "review": "It didn\u2019t work well for me. It\u2019s overpriced for the quality provided.",
+        "label": "NEGATIVE",
+        "score": 0.9995749592781067
+    },
+    {
+        "product": "Product C",
+        "review": "Broke within a few weeks. Very disappointed with the quality.",
+        "label": "NEGATIVE",
+        "score": 0.99969482421875
+    },
+    {
+        "product": "Product C",
+        "review": "Not satisfied at all. It didn\u2019t live up to the hype and was a waste of money.",
+        "label": "NEGATIVE",
+        "score": 0.9998107552528381
+    },
+    {
+        "product": "Product B",
+        "review": "This was a letdown. It didn\u2019t function well and had constant issues.",
+        "label": "NEGATIVE",
+        "score": 0.9997805953025818
+    },
+    {
+        "product": "Product B",
+        "review": "I found this product to be very underwhelming. It didn\u2019t meet my expectations at all.",
+        "label": "NEGATIVE",
+        "score": 0.9996908903121948
+    },
+    {
+        "product": "Product A",
+        "review": "Felt cheaply made and didn\u2019t last long. Not worth the price.\"",
+        "label": "NEGATIVE",
+        "score": 0.9995606541633606
+    },
+    {
+        "product": "Product A",
+        "review": "Disappointed with this product. It didn\u2019t work as advertised, and I had issues right from the start",
+        "label": "NEGATIVE",
+        "score": 0.9997952580451965
+    },
+    {
+        "product": "Product A",
+        "review": "Reliable and well-built. It does its job perfectly every time.",
+        "label": "POSITIVE",
+        "score": 0.9998743534088135
+    },
+    {
+        "product": "Product A",
+        "review": "This is exactly what I was looking for. Couldn\u2019t be happier with the performance.",
+        "label": "POSITIVE",
+        "score": 0.9987163543701172
+    },
+    {
+        "product": "Product A",
+        "review": "I can\u2019t imagine not having this now. It\u2019s convenient, efficient, and well worth the investment.",
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "product": "Product A",
+        "review": "The product feels premium and solid. You can tell it's built to last.",
+        "label": "POSITIVE",
+        "score": 0.9998136162757874
+    },
+    {
+        "product": "Product B",
+        "review": "One of the best purchases I\u2019ve made in a long time. Really happy with it!",
+        "label": "POSITIVE",
+        "score": 0.9998798370361328
+    },
+    {
+        "product": "Product B",
+        "review": "So glad I bought this! It\u2019s worth every penny and has made my daily tasks easier.",
+        "label": "POSITIVE",
+        "score": 0.9993165731430054
+    },
+    {
+        "product": "Product B",
+        "review": "I\u2019m really impressed with this item. It\u2019s well-made, and it\u2019s been working flawlessly.",
+        "label": "POSITIVE",
+        "score": 0.9998795986175537
+    },
+    {
+        "product": "Product B",
+        "review": "Super easy to use and does exactly what I need. Great addition to my collection!",
+        "label": "POSITIVE",
+        "score": 0.9998464584350586
+    },
+    {
+        "product": "Product C",
+        "review": "Exceeded all my expectations. High quality, and it performs exceptionally well!",
+        "label": "POSITIVE",
+        "score": 0.9998693466186523
+    },
+    {
+        "product": "Product C",
+        "review": "This product is simply fantastic! It has made a big difference, and I couldn't be happier.",
+        "label": "POSITIVE",
+        "score": 0.9998751878738403
+    },
+    {
+        "product": "Product C",
+        "review": "I wouldn\u2019t recommend this product. It\u2019s just not as good as advertised.",
+        "label": "NEGATIVE",
+        "score": 0.9996649026870728
+    },
+    {
+        "product": "Product C",
+        "review": "Poor quality and didn't last as long as I expected. Definitely not worth the cost.",
+        "label": "NEGATIVE",
+        "score": 0.9997697472572327
+    },
+    {
+        "product": "Product C",
+        "review": "It was disappointing to see how quickly this broke down. Very poorly made.\n",
+        "label": "NEGATIVE",
+        "score": 0.9998075366020203
+    },
+    {
+        "product": "Product C",
+        "review": "The product doesn\u2019t work as advertised. I feel like I wasted my money\n",
+        "label": "NEGATIVE",
+        "score": 0.9998131394386292
+    },
+    {
+        "product": "Product C",
+        "review": "Not at all happy with this purchase. It\u2019s flimsy and doesn't perform well.\n",
+        "label": "NEGATIVE",
+        "score": 0.9997935891151428
+    },
+    {
+        "product": "Product C",
+        "review": "This item is overpriced for what it offers. There are better options out there.",
+        "label": "NEGATIVE",
+        "score": 0.9993171691894531
     }
 ]
