@@ -1,4 +1,4 @@
-## Web application
+## Web application:
 https://672631-ml-project-streamlit-test-ddavmf.streamlit.app/
 
 # Project Dependencies
